@@ -49,8 +49,15 @@ Operational reporting, Statistical Analysis, Process optimization, Data Collecti
 ### Absenteeism at work (Python (NumPy, Pandas, Matplotlib, Seaborn, SKLEARN, and Keras)) 
 •	Predicted the employee’s absence at work from July 2007 to July 2010 at a courier company in Brazil.
 •	Created machine learning models Logistic Regression, SVM, Decision trees, and Deep Neural Networks for the best performance analysis in Python to get the best accuracy score.
-#### Link for the project : 
+#### Link for the project : https://github.com/Aiswarya0903/-Prediction-of-Employee-Absenteeism-at-work
 
 ### Data Visualizations (Tableau, Powerbi, Qlik sense, Python and R Studio)
 •	Analyzed and visualized the sales data of different products from distinct companies globally and examined the linear relationship and correlation between various dimensions for the best analysis which helps in decision-making.
-#### Link for the project : 
+#### Link for the project : https://github.com/Aiswarya0903/-Data-Visualization-Projects
+
+### Analyzing-Investments-and-Property-Values-of-St.-Petersburg(Tableau, analytical skills)
+•	The aim of the project involves the analysis of non-school district taxable property values on commercial corridors in the CRA of St. Petersburg, FL since 2018 with a focus on understanding annual changes and overall trends. The analysis depicts the insights into how these values of all corridors changed over the designated period of time, helping anyone intending on building, rent, purchasing, or investing in property located in St. Petersburg. The project's goal is to examine the efficiency of the city of St. Petersburg's investments (both public and private) in various corridors of interest and to learn which investments have been the most successful so that the city might make similar investments in the future.
+• Conducted analysis of non-school district taxable property values on commercial corridors in the CRA Developed interactive visualization to rank commercial corridors in non-school taxable district. 
+• Provided valuable that enable stakeholders to make informed decisions regarding investments and further developments in the commercial corridors.
+• Demonstrated expertise in data analysis, visualization, and providing valuable insights to stakeholders.
+#### Link for the project : https://github.com/Aiswarya0903/Analyzing-Investments-and-Property-Values-of-St.-Petersburg
