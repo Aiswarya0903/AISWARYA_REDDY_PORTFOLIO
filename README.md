@@ -44,10 +44,13 @@ Operational reporting, Statistical Analysis, Process optimization, Data Collecti
 ### Predicting the occurrence of Brain Stroke (Python, Weka, Azure ML Studio)
 •	   Extracted data, converted unstructured data into structured data, and merged two datasets for exploratory data analysis.
 •	   On standardized data, algorithms such as Logistic Regression, Decision Trees, and Neural Networks were developed and used to predict the occurrence of Brain Stroke in patients. The models were evaluated and adjusted for best performance.
-Link for the project : https://github.com/Aiswarya0903/-Prediction-of-occurrence-of-Brain-Stroke
+#### Link for the project : https://github.com/Aiswarya0903/-Prediction-of-occurrence-of-Brain-Stroke
 
 ### Absenteeism at work (Python (NumPy, Pandas, Matplotlib, Seaborn, SKLEARN, and Keras)) 
 •	Predicted the employee’s absence at work from July 2007 to July 2010 at a courier company in Brazil.
 •	Created machine learning models Logistic Regression, SVM, Decision trees, and Deep Neural Networks for the best performance analysis in Python to get the best accuracy score.
+#### Link for the project : 
+
 ### Data Visualizations (Tableau, Powerbi, Qlik sense, Python and R Studio)
 •	Analyzed and visualized the sales data of different products from distinct companies globally and examined the linear relationship and correlation between various dimensions for the best analysis which helps in decision-making.
+#### Link for the project : 
